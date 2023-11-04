@@ -6,6 +6,8 @@ I'm Sajani Amanda
 <!--**SajaniAmanda/SajaniAmanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+Go to my Web Page 
+https://sajaniamanda.github.io/SajaniAmanda/
 
 - 🔭 I’m currently working on ...
 
